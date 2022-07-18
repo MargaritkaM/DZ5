@@ -2,7 +2,7 @@ package ru.netology.sqr;
 
 public class SQRService {
 
-    int s = 0;
+    int s;
 
     public int calcAmountSgr(int min, int max) {
         for (int i = 10; i <= 99; i++) {
